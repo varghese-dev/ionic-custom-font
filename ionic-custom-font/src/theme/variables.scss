@@ -22,7 +22,14 @@ $app-direction: ltr;
 // To view all the possible Ionic variables, see:
 // http://ionicframework.com/docs/theming/overriding-ionic-variables/
 
+@font-face {
+  font-family: "dacasa";
+  src: url("../assets/fonts/dacasa.ttf")
+}
 
+*{
+  font-family: "dacasa";
+}
 
 
 // Named Color Variables
