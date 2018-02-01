@@ -27,6 +27,11 @@ $app-direction: ltr;
   src: url("../assets/fonts/dacasa.ttf")
 }
 
+@font-face {
+  font-family: "Ageng Sans";
+  src: url("../assets/fonts/agengsans.ttf")
+}
+
 *{
   font-family: "dacasa";
 }
