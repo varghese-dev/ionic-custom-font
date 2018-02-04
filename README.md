@@ -4,7 +4,8 @@ Use of custom font in Ionic app
 A simple example of using custom fonts in Ionic application.
 
 ## Run this sample application
-1. git clone https://github.com/varnit1986/ionic-custom-font.git
+1. git clone https://github.com/varnit-abraham/ionic-custom-font.git
+1. cd ionic-custom-font
 1. npm install
 1. ionic cordova prepare android
 1. ionic cordova emulate android (on emulator) or ionic cordova run android (on device)
