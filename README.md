@@ -1,4 +1,5 @@
-# ionic-custom-font
+# ionic-custom-font [ARCHIVED]
+
 Use of custom font in Ionic app
 
 A simple example of using custom fonts in Ionic application.
